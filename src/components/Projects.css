@@ -1,0 +1,30 @@
+.content{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.content__card{
+    border: #1E212B  solid;
+    margin: 25px;
+}
+
+.content__screen{
+    height: 225px;
+    width: 225px;
+    margin: 25px;
+    text-align: center; 
+}
+
+.content__projects{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 25px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+}

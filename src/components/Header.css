@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #9AE19D; 
+    color: #1E212B;
+}
+
+.header__title{
+    background-color: #9AE19D;
+    padding-top: 15px;
+    height: 2.7rem;
+
+}
+
+.header__logo{
+    background-color: #9AE19D;
+    padding-top: 5px;
+    height: 3rem;
+    position: absolute;
+    left: 10px;
+
+}

@@ -1,0 +1,35 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    font-weight: bold;
+}
+
+.content__text{
+    padding-top: 60px;
+    padding-left: 360px;
+    padding-right: 10px;
+    line-height: 30px;
+
+}
+
+.content__logo{
+    height: 250px;
+    position: absolute;
+    top: 170px;
+    left: 70px;
+}
+
+.content__images{
+    top: 520px;
+    left: 550px;
+    margin-top: 50px;
+    margin-bottom: 140px;
+}
+
+.content__icons{
+    display: none;
+}

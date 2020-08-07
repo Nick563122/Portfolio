@@ -1,0 +1,29 @@
+.navbar{
+    margin: 32px 0;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1E212B;
+}
+
+.navbar__link{
+    color: #1E212B;
+    background-color: #00d6ff;
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+
+button{
+    color: #1E212B;
+    background-color: #00d6ff;    
+    border-radius: 5px;
+    margin: 0 30px;
+    padding-top: 1px;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+
+}

@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    background-color: #9AE19D; 
+    color: #1E212B;
+    margin-top: 10px;
+    
+    top: 225px;
+}
+
+.footer__copyright{
+    background-color: #9AE19D;
+    padding-right: 320px;
+    height: 1.5rem;
+
+}

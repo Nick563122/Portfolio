@@ -1,0 +1,61 @@
+.contact-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#myForm{
+    margin: 20px;
+    width: 30%;
+
+}
+
+
+#inputName{
+
+    height: 30px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: solid #a800ff;
+    border-radius: 5px;
+    padding:4px;
+}
+
+#inputEmail{
+    height: 30px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: solid #a800ff;
+    border-radius: 5px;
+    padding:4px;
+}
+
+#inputMessage{
+
+    height: 100px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: solid #a800ff;
+    border-radius: 5px;
+    padding:4px;
+}
+
+.btn{
+
+    height: 35px;
+    width: 75px;
+    margin: 10px;
+    color: whitesmoke;
+    background-color: #a800ff;
+    border-radius: 5px;
+    margin-bottom: 18px;
+}
+
+fieldset{
+    border-width: 0;
+    padding: 10px;
+}
